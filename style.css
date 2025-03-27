@@ -1,0 +1,34 @@
+/* Styling the header using a class */
+.title {
+    color: #3498db;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/* Styling the paragraph */
+.description {
+    font-size: 18px;
+    color: #2c3e50;
+    padding: 10px;
+    border: 2px solid #34495e;
+    margin: 15px;
+    text-align: center;
+}
+
+/* Styling an image */
+.styled-image {
+    display: block;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px auto;
+    border: 3px solid #2980b9;
+}
+
+/* Styling the footer using an ID */
+#footer-text {
+    text-align: center;
+    font-weight: bold;
+    color: #e74c3c;
+    margin-top: 20px;
+}
